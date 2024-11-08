@@ -1,0 +1,8 @@
+{
+    "name": "Turkish Providers Repository | @KekikAkademi Test",
+    "description": "Türkçe içerikli eklenti havuzu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Paoneking/Kekik-cloudstream-test/builds/plugins.json"
+    ]
+}
